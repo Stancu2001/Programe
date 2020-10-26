@@ -35,7 +35,7 @@ int Cmmmc(int p,int q)
     return cm;
 }
 
-int Putere(int n)
+void Putere(int n)
 {
     int k,i;
     i=2;
